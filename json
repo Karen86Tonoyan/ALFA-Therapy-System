@@ -1,0 +1,27 @@
+{
+  "nazwa_modulu": "Sztuka kompromisu dla niskiej ugodowości",
+  "status": "w_trakcie",
+  "poziom_trudnosci": "trudny",
+  "cel_glowny": "Rozwój umiejętności elastyczności i współpracy",
+  "cwicznia": [
+    {
+      "nazwa": "Technika Trzech Rozwiązań",
+      "opis": "Poszukiwanie rozwiązań uwzględniających obie strony",
+      "czas": "45-60 minut",
+      "czestotliwosc": "przy konfliktach",
+      "gotowosc": "tak"
+    },
+    {
+      "nazwa": "Kalkulator Ustępstw", 
+      "opis": "Strategiczne planowanie ustępstw",
+      "czas": "30 minut",
+      "czestotliwosc": "przy ważnych decyzjach",
+      "gotowosc": "tak"
+    }
+  ],
+  "metryki_sukcesu": {
+    "skuteczne_kompromisy_tydzien": 0,
+    "satysfakcja_z_rozwiązan": "1-10",
+    "frustracja_podczas_ustępstw": "1-10"
+  }
+}
